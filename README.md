@@ -1,5 +1,7 @@
-# win_sock
+# socket programming
+for Linux & Windows
 
+Windows:
 Let's start the socket test on Windows~ (You may suffer from the problem of "Ws2_32.lib" loss or else, but it's easy to solve, just Google it!)
 
 - Build client.exe & server.exe
