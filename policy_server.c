@@ -68,7 +68,7 @@ int main(int argc, char **argv){
 
     Information info;
     strcpy(info.servername, "HSCC");
-    strcpy(info.policy[0], "take_picture_demo blur_image_demo");
+    strcpy(info.policy[0], "/usr/bin/take_picture_demo /usr/bin/blur_image_demo");
     info.list_cnt = 1;
 
     strcpy(info.digest, "GIjWPZ");
